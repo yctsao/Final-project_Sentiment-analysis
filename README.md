@@ -4,5 +4,5 @@ Code.py : model prediction code
 
 Sentiment analysis for amazon review data.pdf : report
 
-prediction of amazon review presentation : presentation slide in pdf
+prediction of amazon review presentation.pdf : presentation slide in pdf
 
